@@ -257,3 +257,31 @@ p {
     width: 100%;
     padding: 2rem;
 }
+
+.explore {
+    padding-top: 6.625rem;
+    padding-bottom: 6.625rem;
+}
+
+.explore img {
+    border-radius: 1rem;
+}
+
+.explore h1 {
+    text-align: center;
+    margin-bottom: 1.625rem;
+}
+
+.explore p {
+    text-align: center;
+    margin-bottom: 3.625rem;
+}
+
+.explore h4 {
+    padding: 1rem 0 0.625rem 0rem;
+}
+
+.explore .card {
+    border: none;
+    background-color: transparent;
+}
